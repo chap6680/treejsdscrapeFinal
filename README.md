@@ -2,16 +2,16 @@
 Node Script written to scrape website from Treehouse getting shirt details.
 
 ***
-Download the github files\
+Download the github files  
 
 
-Install Dependencies \
+Install Dependencies  
 ```
 
 `NPM install`  
 ```
 
-Compile and Run\
+Compile and Run  
 ```
 `NPM Start`  
 ```
